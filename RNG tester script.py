@@ -7,5 +7,5 @@ QuestionFight=input("Are you READY TO RUMBLE!!!!!!(YES OR YES)")
 areyouready = False
 if QuestionFight == "YES"or "yes" or "Yes" or "yEs" or  "yeS" or "YeS" or "yES" or "YEs":
     areyouready=True
-if areyouready == True
-    print("lets begin then")
+if areyouready == True:
+    print("Lets begin then")
